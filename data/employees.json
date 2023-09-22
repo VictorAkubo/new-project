@@ -1,0 +1,17 @@
+ [
+    {
+        "id":1,
+        "firstname":"victor",
+        "lastname":"akubo"
+    },
+    {
+        "id":2,
+        "firstname":"victoria",
+        "lastname":"akubo"
+    },
+    {
+        "id":3,
+        "firstname":"victor",
+        "lastname":"victor"
+    }
+]
